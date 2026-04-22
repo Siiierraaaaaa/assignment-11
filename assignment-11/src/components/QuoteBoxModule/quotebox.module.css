@@ -1,0 +1,19 @@
+.quoteBox {
+  background-color: #FEEBED;
+  padding: 20px;
+  border-radius: 12px;
+  font-family: Arial, sans-serif;
+  width: 300px;
+  margin: 10px;
+}
+
+.quoteText {
+  font-size: 16px;
+  color: #543B37;
+}
+
+.quoteAuthor {
+  font-size: 14px;
+  color: #E73B68;
+  text-align: right;
+}
